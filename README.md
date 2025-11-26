@@ -33,10 +33,10 @@
 <!-- Contact -->
 ### 📮 Get In Touch
 <p align="center">
-  <a href="mailto:anastasiastifonova@yandex.ru">
+  <a href="mailto:ellinskaya99@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Click_Here-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/ellinskaya">
+  <a href="https://t.me/elllinskaya">
     <img src="https://img.shields.io/badge/💬_Telegram-@ellinskaya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
