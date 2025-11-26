@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=435&lines=Anastasia+Stifonova;Senior+QA+Engineer;API+Testing+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=435&lines=Anastasia+Stifonova;+QA+Engineer;+Тестирую+планирую;+БИМ+БИМ+БАМ+БАМ" alt="Typing SVG" />
 
 <!-- Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=N-Ellinskaya&show_icons=true&theme=radical)
