@@ -1,41 +1,44 @@
-<h1 align="center">Привет, я Анастасия 👋</h1>
-<h3 align="center">QA Engineer из России, переезжаю в Санкт-Петербург</h3>
+<div align="center">
 
+<!-- Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&vCenter=true&width=435&lines=Anastasia+Stifonova;Senior+QA+Engineer;API+Testing+Specialist" alt="Typing SVG" />
+
+<!-- Stats -->
+![](https://github-readme-stats.vercel.app/api?username=N-Ellinskaya&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Ellinskaya&layout=compact&theme=radical)
+
+<!-- Skills Grid -->
+### 🎯 Core Competencies
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
+<!-- Contact -->
+### 📮 Get In Touch
 <p align="center">
-  <a href="mailto:anastasiastifonova@yandex.ru"><img src="https://img.shields.io/badge/Email-anastasiastifonova@yandex.ru-blue?style=flat&logo=gmail"/></a>
-  <a href="https://t.me/ellinskaya"><img src="https://img.shields.io/badge/Telegram-@ellinskaya-blue?style=flat&logo=telegram"/></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Ellinskaya&show_icons=true&theme=radical" alt="Статистика GitHub"/>
-</p>
-
-<h2 align="center">🛠 Технологии и инструменты</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-</p>
-
-<h2 align="center">💼 Опыт</h2>
-
-<p align="center">
-  <strong>Старший специалист по тестированию</strong> в <strong>Яндекс Крауд</strong><br>
-  <strong>Специалист по тестированию</strong> в <strong>СберМаркет (Купер)</strong><br>
-  Оптимизировала процесс регрессионного тестирования, работая с 500+ тест-кейсами
-</p>
-
-<h2 align="center">🚀 Мои проекты</h2>
-
-<p align="center">
-  <a href="https://github.com/N-Ellinskaya/tg_english_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Ellinskaya&repo=tg_english_bot&theme=radical" alt="Telegram Bot"/>
+  <a href="mailto:anastasiastifonova@yandex.ru">
+    <img src="https://img.shields.io/badge/📧_Email-Click_Here-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/N-Ellinskaya/somi-himo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Ellinskaya&repo=somi-himo&theme=radical" alt="Landing Page"/>
+  <a href="https://t.me/ellinskaya">
+    <img src="https://img.shields.io/badge/💬_Telegram-@ellinskaya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+</div>
